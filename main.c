@@ -11,7 +11,6 @@ void ChangeArray(char** arr, int kst, char** arr_min, int* kst_min, char** arr_P
 
 int main()
 {
-    system("chcp 1251");
     
     int kst;
     puts("Введіть кількість рядків яку хочете ввести");
